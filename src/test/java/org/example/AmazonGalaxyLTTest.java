@@ -9,7 +9,7 @@ import org.testng.annotations.Test;
 import java.net.URL;
 import java.util.concurrent.TimeUnit;
 
-public class AmazonGalaxyLTTest {
+public class AmazonGalaxyTest {
     public static final String USERNAME = "engineeringtestsigma";
     public static final String ACCESS_KEY = "XK6ARxr0FsuYM7Uur0FdNVMMRRTrG7VGMWiEwLE5ASBSN8gqOO";
     public static final String GRID_URL = "https://" + USERNAME + ":" + ACCESS_KEY + "@hub.lambdatest.com/wd/hub";
